@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; 
+}
+.Heading{
+  font-weight: bold;
+}
+
+.input-field{
+  width: 40vw;
+}
+.container{
+display: inline-block;
+background-color: aliceblue;
+justify-content: center;
+}
+
